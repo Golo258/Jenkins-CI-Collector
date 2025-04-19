@@ -4,7 +4,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Siemano z GitHuba!'
-		echo " SIemano kolano co 22tam"           
+		echo " S222Iemano kolano co 22tam"           
  }
         }
     }
