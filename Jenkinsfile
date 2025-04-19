@@ -4,7 +4,8 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Siemano z GitHuba!'
-            }
+		echo " SIemano kolano co tam"           
+ }
         }
     }
 }
